@@ -1,2 +1,2 @@
 # Naksha
-3 d naksha
+https://your-username.github.io/3d-naksha/naksha_3d_view.html
